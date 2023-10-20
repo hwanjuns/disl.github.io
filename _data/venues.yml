@@ -7,12 +7,9 @@
 
 "Preprint":
   color: "#00369f"
-
+  
 "MobiCom":
   color: "#DC143C"
-
-"ECCV":
-  color: "#DAA520"
 
 "IEEE TMC":
   color: "#1E90FF"
@@ -20,27 +17,77 @@
 "IEEE TCE":
   color: "#1E90FF"
 
-"ICML":
-  color: "#CD853F"
 
-"ICLR":
-  color: "#00369f"
-
-"NeurIPS":
-  color: "#AB853F"
 
 "CVPR":
-  color: "#1E90FF"
+  color: "#DAA520"
+
+"ECCV":
+  color: "#DAA520"
 
 "ICCV":
-  color: "#1E90FF"
+  color: "#DAA520"
 
 "ICCV Oral":
+  color: "#DAA520"
+
+
+"WWW":
+  color: "#1E90FF"
+
+"WWW Oral":
+  color: "#1E90FF"
+
+"SIGMOD Oral":
+  color: "#1E90FF"
+
+"ICDM":
+  color: "#1E90FF"
+
+"VLDB":
+  color: "#1E90FF"
+
+"CIKM":
+  color: "#1E90FF"
+
+"CIKM Oral":
+  color: "#1E90FF"
+
+
+
+"KDD Oral":
   color: "#1E90FF"
 
 "KDD":
   color: "#1E90FF"
 
+
+
+"ICLR":
+  color: "#00369f"
+
+"NeurIPS":
+  color: "#00369f"
+
+"ICML":
+  color: "#00369f"
+
+"ICML Spotlight":
+  color: "#00369f"
+
 "AAAI":
+  color: "#00369f"
+
+
+
+"EMNLP":
   color: "#DC143C"
+
+
+
+
+
+
+
+
 
